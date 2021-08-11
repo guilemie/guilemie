@@ -6,7 +6,7 @@
   My name is Guilherme and I'm still a programming student. <strong> I practice computer maintenance as a hobby.</strong> <br>
 
 <p align="left">
-  🤹🏼 Skills: <strong> HTML, CSS, JavaScript. </strong> (temporary, learning more every day) 
+  🤹🏼 Skills: <strong> HTML, CSS, JavaScript. </strong> (temporary, learning more every day)
 </p>
 
 <p align="left">
