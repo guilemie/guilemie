@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="guilemie@outlook.com" alt="Outlook">
+  <a href="mailto:guilemie@outlook.com" alt="Outlook">
   <img src="https://img.shields.io/badge/-Outlook-blue" /></a>
 
 
